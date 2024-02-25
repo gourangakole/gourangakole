@@ -3,7 +3,6 @@
 **gourangakole/gourangakole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -16,12 +15,10 @@ Here are some ideas to get you started:
 
 #### About me  
 > - Particle Physicist working for CMS Experiment at the LHC at CERN. 
-<!--
-> - Present employment: Post-doctoral researcher 
-> - Intgrated Ph.D. in High Energy Physics (Tata Institute of Fundamental Research Mumbai, India)
--->
-## 📊 GitHub Stats
+> - Present employment: Post-doctoral researcher at 
+> - Integrated Ph.D. in High Energy Physics (Tata Institute of Fundamental Research Mumbai, India)
 
+## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gourangakole&hide=issues,contribs&show_icons=true&theme=radical) 
 ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gourangakole&layout=compact&theme=radical)
 <!--
