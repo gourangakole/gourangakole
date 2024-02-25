@@ -17,14 +17,12 @@ Here are some ideas to get you started:
 #### About me  
 > - Particle Physicist working for CMS Experiment at the LHC at CERN. 
 <!--
-> - Present employment: Post-doctoral researcher (RWTH Aachen University, Germany)
-> - Post-doctoral Researcher (École Polytechnique, France) 
-> - Doctor of Philosophy in High Energy Physics (Tata Institute of Fundamental Research Mumbai, India)
-> - Master of Science in Physics (Indian Institute of Technology Indore, India)
+> - Present employment: Post-doctoral researcher 
+> - Intgrated Ph.D. in High Energy Physics (Tata Institute of Fundamental Research Mumbai, India)
 -->
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gourangakole&hide=issues,contrib&show_icons=true&theme=radical) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gourangakole&hide=issues,contribs&show_icons=true&theme=radical) 
 ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gourangakole&layout=compact&theme=radical)
 <!--
 &hide=stars,commits,prs,issues,contribs
