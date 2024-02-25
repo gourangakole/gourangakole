@@ -24,9 +24,10 @@ Here are some ideas to get you started:
 -->
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gourangakole&layout=compact&show_icons=true&theme=radical) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gourangakole&hide=issues,contrib&show_icons=true&theme=radical) 
 ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gourangakole&layout=compact&theme=radical)
 <!--
+&hide=stars,commits,prs,issues,contribs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gourangakole&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 **Streaks:**
