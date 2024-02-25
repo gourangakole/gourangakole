@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there, I am Gouranga 👋
+![Visitor](https://komarev.com/ghpvc/?username=gourangakole&color=brightgreen&style=for-the-badge&label=Visitors)
 <!--
 **gourangakole/gourangakole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
