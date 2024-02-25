@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gourangakole&layout=compact&theme=radical)
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gourangakole&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
--->
+
 **Streaks:**
 
 [![GitHub Streak](https://github-readme-streak-stats-blond-mu.vercel.app?user=gourangakole&theme=dark&border_radius=6&date_format=M%20j%5B%2C%20Y%5D&card_width=516)](https://git.io/streak-stats)
+-->
