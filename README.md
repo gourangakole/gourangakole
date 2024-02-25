@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 #### About me  
 > - Particle Physicist working for CMS Experiment at the LHC at CERN. 
-> - Present employment: Post-doctoral researcher at 
+> - Present employment: Post-doctoral researcher at National Taiwan University (Based at CERN)
 > - Integrated Ph.D. in High Energy Physics (Tata Institute of Fundamental Research Mumbai, India)
 
 ## 📊 GitHub Stats
