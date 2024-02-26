@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 -->
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gourangakole&hide=issues,contribs&show_icons=true&theme=radical) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gourangakole&hide=issues,contribs&year=2024&show_icons=true&theme=radical) 
 ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gourangakole&layout=compact&theme=radical)
 <!--
 &hide=stars,commits,prs,issues,contribs
