@@ -32,21 +32,19 @@ Here are some ideas to get you started:
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 -->
+## 📫 Contact
+Feel free to contact me through the following channels:
+- Email: [gouranga226@gmail.com](mailto:gouranga226@gmail.com)
+- LinkedIn: [Gouranga KOLE](www.linkedin.com/in/gouranga-kole-98162326)
 
 <!--
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gourangakole&hide=issues,contribs&count_private=true&show_icons=true&theme=radical) 
 ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gourangakole&layout=compact&theme=radical)
--->
-<!--
 &hide=stars,commits,prs,issues,contribs
 play more, ref: https://github.com/anuraghazra/github-readme-stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gourangakole&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📫 Contact
-Feel free to contact me through the following channels:
-- Email: [gouranga226@gmail.com](mailto:gouranga226@gmail.com)
-- LinkedIn: [Gouranga KOLE](www.linkedin.com/in/gouranga-kole-98162326)
 
 **Streaks:**
 
