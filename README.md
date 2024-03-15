@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 > - Particle physicist working for the CMS Experiment at the Large Hadron Collider (LHC) at CERN.
 > - Present employment: Postdoctoral researcher at National Taiwan University (based at CERN).
 > - Previous positions: Postdoctoral researcher at University of Cyprus (CY), NISER (IN), and University of California, San Diego (US).
-> - Integrated Ph.D. in High Energy Physics (Tata Institute of Fundamental Research Mumbai, India)
+> - Integrated Ph.D. in High Energy Physics from the Tata Institute of Fundamental Research in Mumbai, India.
 
 ## 🔧 Software & Tools
 
