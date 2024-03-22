@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 > - Integrated Ph.D. in High Energy Physics from the Tata Institute of Fundamental Research in Mumbai, India.
 
 ## 🔧 Software & Tools
-<! -- https://ileriayo.github.io/markdown-badges/#%EF%B8%8F-mldl -->
+<!-- https://ileriayo.github.io/markdown-badges/#%EF%B8%8F-mldl -->
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
